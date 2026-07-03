@@ -1,0 +1,8 @@
+.venv/
+Rag/.env
+Rag/**/__pycache__/
+Rag/.pytest_cache/
+zhiwei-web/node_modules
+zhiwei-web/dist
+zhiwei-web/.npm-cache
+*.log
